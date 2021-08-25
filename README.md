@@ -22,7 +22,7 @@ Hi, I'm Raphael, a passionate self-taught Full Stack developer from Brazil.
 
 <div>
     <a href="https://github.com/raphaelfuchter">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelfuchter&show_icons=true&theme=prussian &include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelfuchter&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelfuchter&layout=compact&langs_count=7&theme=prussian "/>
 </div>
   
