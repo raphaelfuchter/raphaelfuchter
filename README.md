@@ -10,8 +10,9 @@
   <img align="left" alt="Raphael Fuchter | Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
-<br />
-<br />
+<br/>
+<br/>
+<br/>
 
 Hi, I'm Raphael, a passionate self-taught Full Stack developer from Brazil.
 
@@ -19,6 +20,9 @@ Hi, I'm Raphael, a passionate self-taught Full Stack developer from Brazil.
 - 🌱 I’m currently learning Python and React;
 - 👯 I’m looking to collaborate on [Jellyfin](https://github.com/jellyfin);
 - 💬 Ask me about anything [here](https://github.com/raphaelfuchter/raphaelfuchter/issues) or send me a e-mail.
+
+<br/>
+<br/>
 
 <div>
     <a href="https://github.com/raphaelfuchter">
