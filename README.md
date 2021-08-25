@@ -17,9 +17,9 @@
     <img align="center" alt="Rf-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="Rf-apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">  
     <img align="center" alt="Rf-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <img align="center" alt="Rf-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/linux-original.svg">
-    <img align="center" alt="Rf-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/android-original.svg">
-    <img align="center" alt="Rf-raspberrypi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/raspberrypi-original.svg">   
+    <img align="center" alt="Rf-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img align="center" alt="Rf-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+    <img align="center" alt="Rf-raspberrypi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">   
 </div>
   
   ##
