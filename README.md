@@ -15,16 +15,19 @@
 
 Hi, I'm Raphael, a passionate self-taught Full Stack developer from Brazil.
 
-- 🔭 I’m currently working on [plexplus.xyz](http://plexplus.xyz)
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on [Jellyfin]https://github.com/jellyfin)
-- 💬 Ask me about anything [here](https://github.com/raphaelfuchter/raphaelfuchter/issues) or send me a e-mail
+- 🔭 I’m currently working on [plexplus.xyz](http://plexplus.xyz) and [SIMData](https://simdata.com.br);
+- 🌱 I’m currently learning Python and React;
+- 👯 I’m looking to collaborate on [Jellyfin](https://github.com/jellyfin);
+- 💬 Ask me about anything [here](https://github.com/raphaelfuchter/raphaelfuchter/issues) or send me a e-mail.
 
 <div>
     <a href="https://github.com/raphaelfuchter">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelfuchter&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelfuchter&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelfuchter&show_icons=true&theme=prussian &include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelfuchter&layout=compact&langs_count=7&theme=prussian "/>
 </div>
+  
+<br />
+<br />
 
 **Languages and Tools:**  
  
