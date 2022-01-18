@@ -16,9 +16,6 @@
 
 Hi, I'm Raphael, a passionate self-taught Full Stack developer from Brazil.
 
-- 🔭 I’m currently working on [plexplus.xyz](http://plexplus.xyz);
-- 🌱 I’m currently learning Python and React;
-- 👯 I’m looking to collaborate on [Jellyfin](https://github.com/jellyfin);
 - 💬 Ask me about anything [here](https://github.com/raphaelfuchter/raphaelfuchter/issues) or send me a e-mail.
 
 <br/>
